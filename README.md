@@ -1,0 +1,1 @@
+# QuickGetComponent README
