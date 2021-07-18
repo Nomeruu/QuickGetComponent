@@ -7,11 +7,11 @@
 まずは入れたい変数の宣言文を入力してください。
 void Start(){}も必要です。
 
-![宣言文を入力するGIF](https://github.com/Hamaya-Mitsuharu/UnityQuickGetComponent/blob/main/QuickGetComponent.gif)
+![宣言文を入力するGIF](images/WriteVariable.gif)
 <br>
 <br>
 次に宣言文の行にカーソルを合わせた状態でCtrl＋Shift＋P(Command+Shift+P)でコマンドパレットを開き、UnityQuickGetComponentを呼び出します。
-![コマンドを呼び出すGIF](QuickGetComponent.gif)
+![コマンドを呼び出すGIF](images/QuickGetComponent.gif)
 GetComponentとRequireComponentを自動で入力します。
 
 分かりやすさのため範囲選択していますが、カーソルを合わせるだけでも起動可能です。
