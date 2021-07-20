@@ -3,8 +3,8 @@
 	"publisher": "Nomeru",
 	"displayName": "unityquickgetcomponent",
 	"description": "",
-	"version": "0.0.1",
-	"repository": "https://github.com/Hamaya-Mitsuharu/UnityQuickGetComponent",
+	"version": "1.0.1",
+	"repository": "https://github.com/Nomeruu/QuickGetComponent.git",
 	"engines": {
 		"vscode": "^1.58.1"
 	},
