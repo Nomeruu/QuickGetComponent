@@ -1,7 +1,7 @@
 # UnityQuickGetcomponent README
 
 # Features
-この拡張機能を使うと、Start()で行われるGetComponentと、RequireComponentを自動で入力できます。
+この拡張機能を使うと、Start()で行われるGetComponentと、RequireComponentを補完入力します。
 <br>
 <br>
 まずは入れたい変数の宣言文を入力してください。
